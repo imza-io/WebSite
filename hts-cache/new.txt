@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:04:56	957/957	---MCZ	200	added ('OK')	text/html	date:Sun,%2016%20Apr%202023%2020:25:33%20GMT	https://imza.io/	/Users/muratsen/websites/imza.io/imza.io/index.html	(from )
+11:04:56	679/679	---MCZ	404	error ('Not%20Found')	text/html	date:Sun,%2026%20May%202024%2008:04:55%20GMT	https://imza.io/robots.txt		(from )
